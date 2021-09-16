@@ -9,7 +9,6 @@ function main(){
     myZ -= 20;
     // only change code above this line 
     return{
-        
         myX,
         myY,
         myZ
