@@ -1,4 +1,4 @@
-function main(numOne, numTwo) {
+function main(numOne, numTwo){
     //only change code below this line 
     product = numOne * numTwo
     //only change code above this line 

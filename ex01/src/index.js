@@ -1,4 +1,4 @@
-function main(numOne, numTwo) {
+function main(numOne, numTwo){
 
     var quotient;
     if(numTwo === 0){
